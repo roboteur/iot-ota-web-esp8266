@@ -7,7 +7,7 @@
 5. Publish message 1, as this will trigger the firmware update.
 
 ## Notes
-* I know this is a little bit fast but should you need to understand this further, please feel free to message me. 
+* The procedures written here "might be limited" to some, please feel free to message me if you need further understanding.
 * You can add more features and be fancy with your projects but this is probably the simplest yet useful OTA via Cloud method you will ever see on the internet. 
 
 ## Feel Free To Direct Message
