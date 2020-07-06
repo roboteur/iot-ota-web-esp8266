@@ -1,4 +1,4 @@
-# Over-The-Air Firmware Update (via CLoud)
+# Over-The-Air Firmware Update (via Cloud)
 ## Procedure
 1. Use the the code in this repo and export the binary.
 2. Create a free site in https://www.000webhost.com and upload it as shown in this photo. 
