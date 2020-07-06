@@ -67,7 +67,7 @@ void callback(char* topic, byte* payload, unsigned int length) {
     Serial.print(receivedChar);    
 
     if (receivedChar == '1')                     // OTA UPDATE!
-      ESPhttpUpdate.update("http://yourchosenname.000webhostapp.com/esp8266.bin"); // This is generated once you registered with https://www.000webhost.com/        
+      ESPhttpUpdate.update("http://yourchosenname.000webhostapp.com/esp8266.bin"); // This is generated once you register with https://www.000webhost.com/        
       // Serial.println("Received message number 1.");
     }
   
